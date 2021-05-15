@@ -9,6 +9,7 @@ python = "^3.9"
 pandas = "^1.2.3"
 ipython = "^7.21.0"
 nbconvert = "^6.0.7"
+openpyxl = "^3.0.7"
 
 [tool.poetry.dev-dependencies]
 
